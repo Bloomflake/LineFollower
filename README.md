@@ -1,16 +1,8 @@
-IR Line Follower v2
--------------------
+IR Line Follower 
+-----------------
 
-This is ver 2 of the Line Follower made by Y. Panigrahi, 
-E. Aggarwal and Prof. S. Vashisth. This is the Second
-version made by Y. Panigrahi, I. Rajput and Prof. S.
-Vashisth. 
-
-Following Changes have been made:
-1. Added 5 Channel IR Array
-2. Removed Color Sensor, IR Sensors (individual), 
-Opto - Isolator Motor Speed Sensors, Encoder disks
-3. Changed the Motor Driver Functions
+This is project is made by Y. Panigrahi, I. Rajput 
+and Prof. S. Vashisth. 
 
 COMPONENTS
 ----------
