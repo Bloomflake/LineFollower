@@ -1,0 +1,25 @@
+CONNECTIONS
+-----------
+
+Below are the connections for the LineFollower:
+
+1. IR Array ---------------- Arduino UNO r3
+   D1                        8
+   D2                        9
+   D3                        10
+   D4                        11
+   D5                        12
+   GND                       GND
+   VCC                       +5V
+
+Unconnected - AN, CAL        
+
+2. Motor Driver ------------ Arduino UNO r3
+   IN1                       4
+   IN2                       5
+   IN3                       6
+   IN4                       7
+   +12V                      VIN
+   GND                       GND
+
+Unconnected - +5V
